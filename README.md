@@ -10,6 +10,7 @@
 Обо мне
 </h1>
 Я любитель разработчик. Программирую на питоне, ардуинщик.
+
 <div id="header" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatDevCode&layout=compact&theme=vision-friendly-dark" width="400"/>
 </div>
